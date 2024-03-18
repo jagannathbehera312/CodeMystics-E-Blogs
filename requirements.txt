@@ -3,3 +3,4 @@ gunicorn
 flask_sqlalchemy
 flask_mail
 datetime
+pymysql
