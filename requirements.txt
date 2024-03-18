@@ -2,5 +2,4 @@ flask
 gunicorn
 flask_sqlalchemy
 flask_mail
-json
 datetime
