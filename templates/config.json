@@ -1,0 +1,21 @@
+{
+    "params":{
+        "local_server" : "True",
+        "local_uri" : "mysql+pymysql://root:@localhost/jbblogs",
+        "prod_uri" : "mysql+pymysql://root:@localhost/jbblogs",
+        "fb_url" : "https://www.facebook.com/jbblogs",
+        "tw_url" : "https://www.twitter.com/jbblogs",
+        "gt_url" : "https://www.github.com/jbblogs",
+        "blog_name" : "CodeMystics",
+        "blog_desc" : "Where Code Becomes Wisdom",
+        "gmail-user" : "user@gmail.com",
+        "gmail-password" : "User@1234",
+        "about-me" : "I am a dedicated and hardworking computer science graduate from the National Institute of Technology Rourkela and currently working as SDE 1 at Truminds Software Systems. Throughout my academic journey, I have gained valuable experience in various fields such as Frontend Web Development, Web Automation, Android Development, and Graphics Design.I have honed my technical skills through internships and part-time roles in web development, cybersecurity, and technical management. Currently, I am working as an SDE Intern at Truminds Software Systems, where I use my expertise in XPath, REST APIs, and web automation to solve complex problems.Apart from my technical skills, I am an active member of various clubs including the A2nitr Club, Codehub, and Inspire Club. These experiences have allowed me to develop strong team management skills and further improve my coding skills.In addition to my academic and professional pursuits, I also enjoy playing PC games and badminton in my free time. My passion for computer science drives me to explore new technologies constantly and improve my skills.Overall, I am a motivated and dedicated individual with a strong passion for software development, and I remain committed to learning and growing in the field as an SDE 1 at Truminds.",
+        "no_of_post" : 3,
+        "login_image" : "profile.png",
+        "admin_user" : "user",
+        "admin_pass" : "password",
+        "upload_location" : "C:\\Users\\Administrator\\Desktop\\Flask\\static\\assets\\img"
+ 
+    }
+}
